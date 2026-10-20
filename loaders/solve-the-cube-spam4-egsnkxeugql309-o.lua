@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/solve-the-cube-spam4-egsnkxeugql309.lua"))()
