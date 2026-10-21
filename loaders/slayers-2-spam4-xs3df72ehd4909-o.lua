@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/slayers-2-spam4-xs3df72ehd4909.lua"))()
