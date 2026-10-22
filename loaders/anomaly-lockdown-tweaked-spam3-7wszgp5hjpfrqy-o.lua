@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/anomaly-lockdown-tweaked-spam3-7wszgp5hjpfrqy.lua"))()
