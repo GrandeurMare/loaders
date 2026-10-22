@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/build-a-phone-empire-spam3-kzh9r5xijlq077.lua"))()
