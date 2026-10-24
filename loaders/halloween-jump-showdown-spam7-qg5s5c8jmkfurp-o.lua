@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/halloween-jump-showdown-spam7-qg5s5c8jmkfurp.lua"))()
