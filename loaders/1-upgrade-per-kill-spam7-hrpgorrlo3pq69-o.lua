@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/1-upgrade-per-kill-spam7-hrpgorrlo3pq69.lua"))()
