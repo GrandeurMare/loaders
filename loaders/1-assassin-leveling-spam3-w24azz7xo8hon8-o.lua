@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/1-assassin-leveling-spam3-w24azz7xo8hon8.lua"))()
