@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/international-become-a-striker-spam3-agirwffco6fkz7.lua"))()
