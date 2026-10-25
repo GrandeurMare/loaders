@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/realistic-ragdoll-engine-spam7-meee6uvnntzqs3.lua"))()
