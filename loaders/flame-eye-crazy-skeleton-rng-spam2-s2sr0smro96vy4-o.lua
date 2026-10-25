@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrandeurMare/loaders/main/loaders/flame-eye-crazy-skeleton-rng-spam2-s2sr0smro96vy4.lua"))()
